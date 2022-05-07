@@ -1,7 +1,7 @@
 # 👋🌎
 
-### Soy Marco.
+### Mi nombre es Marco.
 
-Soy estudiante de **Ingeniería en Computación** de la [*Universidad Nacional de Río Negro*.
+Soy estudiante de **Ingeniería en Computación** en la [*Universidad Nacional de Río Negro*.
 ](https://www.unrn.edu.ar/home)
 
