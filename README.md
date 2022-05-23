@@ -4,3 +4,9 @@
 
 Soy estudiante de **Ingeniería en Computación** en la [*Universidad Nacional de Río Negro*.
 ](https://www.unrn.edu.ar/home)
+
+```mermaid
+stateDiagram-v2
+    aprender --> probar
+    probar  --> aprender
+```
