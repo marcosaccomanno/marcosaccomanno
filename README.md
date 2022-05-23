@@ -7,6 +7,7 @@ Soy estudiante de **Ingeniería en Computación** en la [*Universidad Nacional d
 
 ```mermaid
 stateDiagram-v2
-    aprender --> probar
+    aprender --> 💡
+    💡 --> probar
     probar  --> aprender
 ```
